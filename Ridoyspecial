@@ -73,41 +73,41 @@ http://103.205.133.19/hls/ten1.m3u8
 http://103.205.133.19/hls/ten2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3 HD
 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",TNT
+#EXTINF:-1,TNT
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Facebook
+#EXTINF:-1,Facebook
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-#EXTINF:-1 ,BEIN SPORT MAX 2 H265.
+#EXTINF:-1,BEIN SPORT MAX 2 H265.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3230
-#EXTINF:-1 ,BEIN SPORT MAX 3 H265.
+#EXTINF:-1,BEIN SPORT MAX 3 H265.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3776
-#EXTINF:-1 ,BEIN SPORT MAX 5 H265.
+#EXTINF:-1,BEIN SPORT MAX 5 H265.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3461
-#EXTINF:-1 ,beIN SPORTS MAX 1 4k.
+#EXTINF:-1,beIN SPORTS MAX 1 4k.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3582
-#EXTINF:-1 ,beIN SPORTS MAX 2 4k.
+#EXTINF:-1,beIN SPORTS MAX 2 4k.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3584
-#EXTINF:-1 ,beIN SPORTS MAX 3 4K.
+#EXTINF:-1,beIN SPORTS MAX 3 4K.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3585
-#EXTINF:-1 ,Bein SPORTS MAX 4  4k.
+#EXTINF:-1,Bein SPORTS MAX 4  4k.
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3401
-#EXTINF:-1 ,BEIN SPORT MAX 1 HD
+#EXTINF:-1,BEIN SPORT MAX 1 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3187
-#EXTINF:-1 ,BEIN SPORT MAX 2 HD
+#EXTINF:-1,BEIN SPORT MAX 2 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3216
-#EXTINF:-1 ,Bein sport max 2 sd
+#EXTINF:-1,Bein sport max 2 sd
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3576
-#EXTINF:-1 ,BEIN SPORT MAX 3 HD
+#EXTINF:-1,BEIN SPORT MAX 3 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3217
-#EXTINF:-1 ,BEIN SPORT MAX 4 HD
+#EXTINF:-1,BEIN SPORT MAX 4 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3218
-#EXTINF:-1 ,BEIN SPORT MAX 5 HD
+#EXTINF:-1,BEIN SPORT MAX 5 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3219
-#EXTINF:-1 ,BEIN SPORT MAX 6 HD
+#EXTINF:-1,BEIN SPORT MAX 6 HD
 http://191.243.149.178:25461/SNEAKER_Black/ZANA-is-freeEE/3220
-#EXTINF:-1 ,WWE Network HD
+#EXTINF:-1,WWE Network HD
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84261
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", EUROSPORT 2 HD
 http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/84260
