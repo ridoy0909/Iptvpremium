@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Discovery HD
+https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1625878464&md5=toNzPLBmollizyJUbetzDw&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
