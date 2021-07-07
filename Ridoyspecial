@@ -63,46 +63,17 @@ http://103.205.133.19/hls/somoy.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
 **Sports**
-#EXTINF:-1 tvg-id="" tvg-name="PK: Ten Sports" tvg-logo="" group-title="CRICKET",PK: Ten Sports
-http://oqab.life:8080/live/44884/44884/232.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 3 HD" tvg-logo="" group-title="CRICKET",IN: SONY TEN 3 HD
-http://oqab.life:8080/live/44884/44884/233.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sport 1 HD" tvg-logo="" group-title="CRICKET",IN: Star Sport 1 HD
-http://oqab.life:8080/live/44884/44884/234.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: BOXING HD" tvg-logo="" group-title="CRICKET",IN: BOXING HD
-http://oqab.life:8080/live/44884/44884/235.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 1 HD" tvg-logo="" group-title="CRICKET",IN: SONY TEN 1 HD
-http://oqab.life:8080/live/44884/44884/236.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY ESPN HD" tvg-logo="" group-title="CRICKET",IN: SONY ESPN HD
-http://oqab.life:8080/live/44884/44884/237.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN:  Six HD" tvg-logo="" group-title="CRICKET",IN:  Six HD
-http://oqab.life:8080/live/44884/44884/238.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY Ten 2 HD" tvg-logo="" group-title="CRICKET",IN: SONY Ten 2 HD
-http://oqab.life:8080/live/44884/44884/239.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="CRICKET",IN: STAR SPORTS SELECT 2 HD
-http://oqab.life:8080/live/44884/44884/240.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS HINDI HD" tvg-logo="" group-title="CRICKET",IN: STAR SPORTS HINDI HD
-http://oqab.life:8080/live/44884/44884/241.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET" tvg-logo="" group-title="CRICKET",IN: WILLOW CRICKET
-http://oqab.life:8080/live/44884/44884/242.ts
-#EXTINF:-1 tvg-id="" tvg-name="US: WILLOW CRICKET XTRA" tvg-logo="" group-title="CRICKET",US: WILLOW CRICKET XTRA
-http://oqab.life:8080/live/44884/44884/243.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR_SPORTS_SELECT_1_HD" tvg-logo="" group-title="CRICKET",IN: STAR_SPORTS_SELECT_1_HD
-http://oqab.life:8080/live/44884/44884/244.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2 HD" tvg-logo="" group-title="CRICKET",IN: STAR SPORTS 2 HD
-http://oqab.life:8080/live/44884/44884/245.ts
-#EXTINF:-1 tvg-id="" tvg-name="IN : STAR SPORTS 3" tvg-logo="" group-title="CRICKET",IN : STAR SPORTS 3
-http://oqab.life:8080/live/44884/44884/246.ts
-#EXTINF:-1 tvg-id="" tvg-name="AU: FOX CRICKET 501" tvg-logo="" group-title="CRICKET",AU: FOX CRICKET 501
-http://oqab.life:8080/live/44884/44884/247.ts
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket HD" tvg-logo="" group-title="CRICKET",Astro Cricket HD
-http://oqab.life:8080/live/44884/44884/248.ts
-#EXTINF:-1 tvg-id="" tvg-name="PK: PSL (CRICKET)" tvg-logo="" group-title="CRICKET",PK: PSL (CRICKET)
-http://oqab.life:8080/live/44884/44884/249.ts
-#EXTINF:-1 tvg-id="" tvg-name="ADS SPORTS CRICKET" tvg-logo="" group-title="CRICKET",ADS SPORTS CRICKET
-http://oqab.life:8080/live/44884/44884/250.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK : EUROSPORT 1 HD" tvg-logo="" group-title="UK",UK : EUROSPORT 1 HD
-http://oqab.life:8080/live/44884/44884/196.ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN (720p)
+http://stream2.grandma.fit/fs2.m3u8
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="EdgeSportUS.uk" tvg-name="Edge Sport (US)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="Sports",Edge Sport (US) (720p)
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ElevenSports1.uk" tvg-name="Eleven Sports 1" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports 1 (Portugal) (1080p)
+http://185.236.229.21:9981/play/a05v
+
 
  **Kids**
  #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="kids",Nick jr
