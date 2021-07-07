@@ -73,6 +73,11 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevenSports1.uk" tvg-name="Eleven Sports 1" tvg-country="UK" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/5m0i9if.png" group-title="Sports",Eleven Sports 1 (Portugal) (1080p)
 http://185.236.229.21:9981/play/a05v
+http://g-tv.us:1991/kingdiabloskypefrind/ADS5086909q9az2sq005aFDS/9198
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
+http://8.anbdaouras.xyz/live/9889900/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 2 HD
+http://5.amroutras.xyz/live/00002500/index.m3u8
 
 
  **Kids**
