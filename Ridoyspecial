@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTM3U url-tvg=""
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Ananda TV
 http://iptvbd.jagobd.com:1931/boishakhi/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxq0pV2.png" group-title="Bangladeshi", Asian TV
@@ -61,7 +60,6 @@ http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 http://103.205.133.19/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Bangladeshi", T Sports SD
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-
 **Sports**
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Sports",ESPN (720p)
 http://stream2.grandma.fit/fs2.m3u8
