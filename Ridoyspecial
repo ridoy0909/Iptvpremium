@@ -1,12 +1,34 @@
 #EXTM3U
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="Bangladeshi", zee Cafe
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="English", Animal Planet HD
+http://ostora.net:2086/test/test/1009
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/899/279/png-clipart-b4u-music-b4u-movies-television-channel-others-miscellaneous-television.png" group-title="English", B4U Music
+http://ostora.net:2086/test/test/1011
+#EXTINF:-1 tvg-logo="https://archive.org/download/BoxHits/box%20hits.png" group-title="English", BOX Hits
+http://ostora.net:2086/test/test/1040
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png" group-title="English", Comedy Central Extra
+http://ostora.net:2086/test/test/1067
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="English", DISCOVERY CHANNEL HD
+http://ostora.net:2086/test/test/1071
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="English", DISCOVERY HISTORY HD
+http://ostora.net:2086/test/test/1072
+#EXTINF:-1 tvg-logo="https://archive.org/download/BoxHits/box%20hits.png" group-title="English", MTV Hits
+http://ostora.net:2086/test/test/1133
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="English", Sky cinema scifi
+http://ostora.net:2086/test/test/1191
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Sky_Cinema_Comedy_DE_Logo_2016.png" group-title="English", Sky cinema select
+http://ostora.net:2086/test/test/1192
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Travel_Channel_HD_-_Logo.png/799px-Travel_Channel_HD_-_Logo.png" group-title="English",  Travel Channel
+http://ostora.net:2086/test/test/1240
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", And Flix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/800px-History_Logo.svg.png" group-title="English", History hd
+http://dimapro.cz:8080/00:1A:79:17:08:C5/fukssjslsljls/38677
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", And Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", And Prive hd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", And Prive hd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Discovery turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", Discovery turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangladeshi", Discovery HD
 https://edge01.iptv.digijadoo.net/live/discovery_hd/chunks.m3u8?expires=1625878464&md5=toNzPLBmollizyJUbetzDw&user=ef3b0701f26743a4a12ce79435bc6d0d
@@ -132,6 +154,12 @@ http://ostora.net:2086/test/test/112
  **Kids**
  #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="kids",Nick jr
 http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="kids", Nicktoon
+http://ostora.net:2086/test/test/1146
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="kids", Disney XD
+http://ostora.net:2086/test/test/1078
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="kids", Boomerang
+http://ostora.net:2086/test/test/1039
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/306-3060218_aniplus-aniplus-logo-png.png" group-title="kids" ,ANI Plus
 http://210.210.155.35/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="kids" ,Animax
@@ -144,3 +172,11 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://y5w8j4a9.ssl.hwcdn.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logodesignlove.com/images/identity/lale-logo-01.jpg" group-title="kids" ,Lale
 http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,UK: Tiny Pop HD
+http://ostora.net:2086/test/test/1237
+#EXTINF:-1,UK: TLC HD
+http://ostora.net:2086/test/test/1238
+#EXTINF:-1,UK: Tom & Jerry HD
+http://ostora.net:2086/test/test/1239
+#EXTINF:-1,UK: Travel Channel
+http://ostora.net:2086/test/test/1240
