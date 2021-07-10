@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTM3U url-tvg=""
-
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/800px-History_Logo.svg.png" group-title="English", History hd
@@ -15,6 +14,14 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", And Prive hd
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", And Prive hd
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlistwebvtt_3346535.vtt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", News Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", Discovery turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="English", Discovery HD
