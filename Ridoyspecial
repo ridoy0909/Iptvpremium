@@ -1,11 +1,5 @@
 #EXTM3U
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo-0.png" group-title="English", Animal Planet HD
-http://ostora.net:2086/test/test/1009
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/899/279/png-clipart-b4u-music-b4u-movies-television-channel-others-miscellaneous-television.png" group-title="English", B4U Music
-http://ostora.net:2086/test/test/1011
-#EXTINF:-1 tvg-logo="https://archive.org/download/BoxHits/box%20hits.png" group-title="English", BOX Hits
-http://ostora.net:2086/test/test/1040
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/150px-Comedy_Central.svg.png" group-title="English", Comedy Central Extra
 http://ostora.net:2086/test/test/1067
 #EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6901604_preview.png" group-title="English", DISCOVERY CHANNEL HD
@@ -116,41 +110,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sport",FOX Sport HD 1
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-http://ostora.net:2086/test/test/347
-#EXTINF:-1,HD Premium 1 H265
-http://ostora.net:2086/test/test/97
-#EXTINF:-1,HD Premium 2 H265
-http://ostora.net:2086/test/test/98
-#EXTINF:-1,HD Premium 3 H265
-http://ostora.net:2086/test/test/99
-#EXTINF:-1,HD 1 H265
-http://ostora.net:2086/test/test/100
-#EXTINF:-1,HD 2 H265
-http://ostora.net:2086/test/test/101
-#EXTINF:-1,HD 3 H265
-http://ostora.net:2086/test/test/102
-#EXTINF:-1,HD 4 H265
-http://ostora.net:2086/test/test/103
-#EXTINF:-1,HD 5 H265
-http://ostora.net:2086/test/test/104
-#EXTINF:-1,HD 6 H265
-http://ostora.net:2086/test/test/105
-#EXTINF:-1,HD 7 H265
-http://ostora.net:2086/test/test/106
-#EXTINF:-1,Max HD 1 H265
-http://ostora.net:2086/test/test/107
-#EXTINF:-1,Max HD 2 H265
-http://ostora.net:2086/test/test/108
-#EXTINF:-1,Max HD 3 H265
-http://ostora.net:2086/test/test/109
-#EXTINF:-1,Max HD 4 H265
-http://ostora.net:2086/test/test/110
-#EXTINF:-1,Max HD 5 H265
-http://ostora.net:2086/test/test/111
-#EXTINF:-1,Max HD 6 H265
-http://ostora.net:2086/test/test/112
+
  **Kids**
  #EXTINF:0 tvg-language="Bangla" tvg-logo="" group-title="kids",Nick jr
 http://cdn.ihub.live:8080/Nick/tracks-v1a1/mono.m3u8
@@ -178,98 +138,3 @@ http://ostora.net:2086/test/test/1237
 http://ostora.net:2086/test/test/1238
 #EXTINF:-1,UK: Tom & Jerry HD
 http://ostora.net:2086/test/test/1239
-#EXTINF:-1,UK: Travel Channel
-http://ostora.net:2086/test/test/1240
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243580
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243581
-#EXTINF:-1,UK: SKY SPORTS PREMIERE LEAGUE FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243582
-#EXTINF:-1,UK: SKY SPORTS ARENA FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243583
-#EXTINF:-1,UK: SKY SPORTS NFL/ACTION FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243584
-#EXTINF:-1,UK: SKY SPORTS GOLF FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243585
-#EXTINF:-1,UK: SKY SPORTS CRICKET FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243586
-#EXTINF:-1,UK: SKY SPORTS F1 FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243587
-#EXTINF:-1,UK: SKY SPORTS MIX FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243588
-#EXTINF:-1,UK: SKY SPORTS RACING FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243589
-#EXTINF:-1,UK: SKY SPORTS BOX OFFICE HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243590
-#EXTINF:-1,UK: BT SPORT 1 FHD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243591
-#EXTINF:-1,UK: BT SPORT 2 FHD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243592
-#EXTINF:-1,UK: BT SPORT 3 FHD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243593
-#EXTINF:-1,UK: BT SPORT ESPN (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243594
-#EXTINF:-1,UK: EIR SPORT 1 FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243595
-#EXTINF:-1,UK: EIR SPORT 2 FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243596
-#EXTINF:-1,UK: PREMIER SPORTS 1 UK FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243599
-#EXTINF:-1,UK: PREMIER SPORTS 2 UK FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243600
-#EXTINF:-1,UK: FREESPORTS FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243601
-#EXTINF:-1,UK: LALIGATV FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243602
-#EXTINF:-1,UK: RACING FHD (HEVC)
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243605
-#EXTINF:-1,UK: SKY DOCUMENTARIES HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243663
-#EXTINF:-1,UK: SKY NATURE HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243664
-#EXTINF:-1,UK: SKY HISTORY HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243665
-#EXTINF:-1,UK: SKY HISTORY 2 HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243666
-#EXTINF:-1,UK: TLC HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243667
-#EXTINF:-1,UK: CRIME & INVESTIGATION HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243668
-#EXTINF:-1,UK: DISCOVERY CHANNEL HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243669
-#EXTINF:-1,UK: NAT GEO HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243670
-#EXTINF:-1,UK: NAT GEO WILD HEVC
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/243671
-#EXTINF:-1,UK| BBC One FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158341
-#EXTINF:-1,UK| BBC One HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158343
-#EXTINF:-1,UK| BBC One
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257110
-#EXTINF:-1,UK| BBC Two FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158344
-#EXTINF:-1,UK| BBC Two HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158345
-#EXTINF:-1,UK| BBC Two ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/199658
-#EXTINF:-1,UK| BBC Two
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257111
-#EXTINF:-1,UK| BBC Four FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158346
-#EXTINF:-1,UK| BBC Four HD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158347
-#EXTINF:-1,UK| BBC Four
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/257112
-#EXTINF:-1,UK: BBC Entertainment
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/6718
-#EXTINF:-1,UK| BBC Red Button ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81584
-#EXTINF:-1,UK| ITV FHD ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158350
-#EXTINF:-1,UK| Discovery Shed ✅
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/158469
-#EXTINF:-1,UK| Sky Documentaries FHD
-http://vipmax-tv.net:8080/ultraserv365/ecgbQRQu95/81955
-#EXTINF:-1,UK| Sky Documentaries HD
