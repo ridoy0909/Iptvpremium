@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
+http://ueefa.mazystreams.xyz/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDI6NTY6NDggUE0maGFzaF92YWx1ZT0vbDI2MHpiWUM5VXNUMGVDclNmOThBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNjAxOmM2OmNiMDA6ZmI0MDo6NWJiNCZzdHJtX2xlbj01
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/800px-History_Logo.svg.png" group-title="English", History hd
 http://dimapro.cz:8080/00:1A:79:17:08:C5/fukssjslsljls/38677
@@ -119,10 +121,12 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", Sporte interativo
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 1 HD
-http://8.anbdaouras.xyz/live/9889900/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS_MAX 2 HD
-http://5.amroutras.xyz/live/00002500/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 1 HD
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", BEINSPORTS 2 HD
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports", SUPERSPORTS 1 HD
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/9q8gFsq.png",Abu Dhabi Sports 2
