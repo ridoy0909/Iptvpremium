@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
+http://152.67.9.211//jioo.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
 http://ueefa.mazystreams.xyz/live/3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIxIDI6NTY6NDggUE0maGFzaF92YWx1ZT0vbDI2MHpiWUM5VXNUMGVDclNmOThBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0yNjAxOmM2OmNiMDA6ZmI0MDo6NWJiNCZzdHJtX2xlbj01
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", zee Cafe
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
